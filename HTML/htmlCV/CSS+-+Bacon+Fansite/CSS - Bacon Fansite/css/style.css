@@ -1,0 +1,13 @@
+h1 {
+  color: teal;
+  font-size: 40px;
+}
+
+.broccoli {
+  background-color: aqua;
+}
+.bowl {
+  background-color: black;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
